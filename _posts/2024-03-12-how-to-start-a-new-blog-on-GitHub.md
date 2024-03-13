@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "How to start a new blog on GitHub"
 ---
 
