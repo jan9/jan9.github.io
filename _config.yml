@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My Dev Journey"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HyeTech"
+name                     : ""
 description              : ""
 url                      : "https://jan9.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juhye"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford"
+  location         : "Earth"
   email            :
   links:
     - label: "Email"
